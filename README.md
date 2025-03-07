@@ -11,3 +11,6 @@ No terminal digitar os comandos:
 ## Autor
 nome: seu-nome
 turma: a
+
+  ## Clone Repo
+  - git clone <path-repo>
